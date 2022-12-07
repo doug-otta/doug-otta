@@ -1,6 +1,6 @@
 <dl>
     <dt><h1>HEY THERE!&nbsp&nbsp<img width="35px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1></dt>
-    <dd>My name is Douglas Otta, a brazilian cook, maybe in the future a brazilian developer!</dd>
+    <dd>I'm Douglas Otta, a brazilian cook, maybe in the future a brazilian developer!</dd>
 </dl>
 
 <dl>

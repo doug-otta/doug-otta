@@ -19,4 +19,5 @@
         <dd><img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp&nbspReact</dd>
         <dd><img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp&nbspNode</dd>
         <dd><img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />&nbsp&nbspSQLite</dd>
+        <dd><img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp&nbspGit</dd>
  </dl>

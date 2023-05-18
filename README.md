@@ -16,8 +16,8 @@
         <dd><img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp&nbspHTML</dd>
         <dd><img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp&nbspCSS</dd>
         <dd><img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp&nbspJavaScript</dd>
-        <dd><img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp&nbspReact</dd>
-        <dd><img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp&nbspNode</dd>
+        <dd><img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp&nbspLinux</dd>
+        <dd><img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />&nbsp&nbspC</dd>
         <dd><img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />&nbsp&nbspSQLite</dd>
         <dd><img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp&nbspGit</dd>
  </dl>
